@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Chanthai
 
 I'm a **Senior Software Developer** with a passion for building intelligent systems, scalable applications, and secure decentralized solutions. I specialize in **Python AI**, **Full-Stack Development**, and **Blockchain Engineering**—combining technical excellence with real-world impact.
 
