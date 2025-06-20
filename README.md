@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Chanthai</h1>
 
-<p align="center">
+<p align="left">
   <b>Senior Software Developer</b> passionate about building intelligent systems, scalable applications, and secure decentralized solutions.
 </p>
 
-<p align="center">
+<p align="left">
   I specialize in <b>Python AI</b>, <b>Full-Stack Development</b>, and <b>Blockchain Engineering</b> — combining technical excellence with real-world impact.
 </p>
 
