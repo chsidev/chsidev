@@ -15,9 +15,11 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sp-959565126)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/codingmentor)
-[![Email](https://img.shields.io/badge/Email-chanthaisihabouth%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanthaisihabouth@gmail.com)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sp-959565126)
+  [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/codingmentor)
+  [![Email](https://img.shields.io/badge/Email-chanthaisihabouth%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanthaisihabouth@gmail.com)
+</div>
 
 ---
 
@@ -52,4 +54,3 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 ![Solana](https://img.shields.io/badge/-Solana-00A3C4?style=for-the-badge&logo=solana)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 ![Anchor](https://img.shields.io/badge/-Anchor-0D0D0D?style=for-the-badge&logo=anchor)
-\
