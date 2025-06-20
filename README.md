@@ -1,19 +1,10 @@
-# 👋 Hi, I'm Chanthai
+# Hi, I'm Chanthai
 
 I'm a **Senior Software Developer** with a passion for building intelligent systems, scalable applications, and secure decentralized solutions. I specialize in **Python AI**, **Full-Stack Development**, and **Blockchain Engineering**, combining technical excellence with real-world impact.
 
 ---
 
-## 🧠 Who I Am
-
-- 💡 Python & AI Engineer (LLMs, NLP, RAG, Automation)
-- 💻 Full-Stack Developer (React.js, Node.js, FastAPI, PostgreSQL)
-- 🔗 Blockchain Developer (Solidity, Web3, smart contract auditing)
-- 🛠 Builder of bots, backends, and production-grade APIs
-
----
-
-## 🔗 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sp-959565126)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/codingmentor)
@@ -21,9 +12,9 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 
 ---
 
-## 🚀 Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 🧠 AI / ML / Automation
+### AI / ML / Automation
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
@@ -32,7 +23,7 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 ![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/-RAG-blue?style=for-the-badge)
 
-### 🌐 Full Stack
+### Full Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
@@ -41,7 +32,7 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
-### ⛓️ Blockchain
+### Blockchain
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-green?style=for-the-badge)
