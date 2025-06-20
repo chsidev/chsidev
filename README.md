@@ -17,7 +17,7 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sp-959565126)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/codingmentor)
-📧 Email: [chanthaisihabouth@gmail.com](mailto:chanthaisihabouth@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chanthaisihabouth%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanthaisihabouth@gmail.com)
 
 ---
 
