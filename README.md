@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chanthai
 
-I'm a **Senior Software Developer** with a passion for building intelligent systems, scalable applications, and secure decentralized solutions. I specialize in **Python AI**, **Full-Stack Development**, and **Blockchain Engineering**—combining technical excellence with real-world impact.
+I'm a **Senior Software Developer** with a passion for building intelligent systems, scalable applications, and secure decentralized solutions. I specialize in **Python AI**, **Full-Stack Development**, and **Blockchain Engineering**, combining technical excellence with real-world impact.
 
 ---
 
@@ -10,7 +10,6 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 - 💻 Full-Stack Developer (React.js, Node.js, FastAPI, PostgreSQL)
 - 🔗 Blockchain Developer (Solidity, Web3, smart contract auditing)
 - 🛠 Builder of bots, backends, and production-grade APIs
-- 🎯 Freelancer & startup tech partner (remote-first, delivery-focused)
 
 ---
 
@@ -50,19 +49,7 @@ I'm a **Senior Software Developer** with a passion for building intelligent syst
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
 ![Polygon](https://img.shields.io/badge/-Polygon-8247e5?style=for-the-badge)
 ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge)
-
----
-
-## 🔥 Highlight Projects
-
-- 🤖 `ai-legal-assistant` – RAG-powered legal document QA tool using OpenAI & LangChain
-- 🧠 `chatbot-stack` – Custom GPT assistant with memory, tools, embeddings
-- 💸 `crypto-bot-monitor` – Discord bot for NFT and token sale alerts (Solana & ETH)
-- 🎮 `play-to-earn-engine` – Web3 gaming reward engine with smart contract + React UI
-
----
-
-## 📢 Let's Build
-
-Open to collaborations, freelance projects, and cool ideas.  
-DM me or send an email—let's create something impactful together!
+![Solana](https://img.shields.io/badge/-Solana-00A3C4?style=for-the-badge&logo=solana)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
+![Anchor](https://img.shields.io/badge/-Anchor-0D0D0D?style=for-the-badge&logo=anchor)
+\
