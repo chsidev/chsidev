@@ -8,7 +8,6 @@
   I specialize in <b>Python AI</b>, <b>Full-Stack Development</b>, and <b>Blockchain Engineering</b> — combining technical excellence with real-world impact.
 </p>
 
----
 <p align="center">
   <a href="https://linkedin.com/in/sp-959565126" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -26,7 +25,6 @@
 ## Tech Stack & Skills
 
 ###  AI / ML / Automation
-
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
@@ -40,7 +38,6 @@
 ---
 
 ###  Full Stack
-
 <p>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs" />
@@ -54,7 +51,6 @@
 ---
 
 ###  Blockchain
-
 <p>
   <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity" />
   <img src="https://img.shields.io/badge/-Hardhat-black?style=for-the-badge" />
@@ -68,8 +64,3 @@
   <img src="https://img.shields.io/badge/-Anchor-0D0D0D?style=for-the-badge&logo=anchor" />
 </p>
 
-##  Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsidev&layout=pie&theme=radical" />
-</p>
