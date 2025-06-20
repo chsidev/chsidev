@@ -9,9 +9,6 @@
 </p>
 
 ---
-
-## Let's Connect
-
 <p align="center">
   <a href="https://linkedin.com/in/sp-959565126" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
